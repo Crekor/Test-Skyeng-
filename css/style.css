@@ -1,0 +1,64 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+html {
+  font-size: 10px;
+}
+.box {
+  width: 70%;
+  position: relative;
+  margin: 0 auto;
+}
+.box h1 {
+  text-align: right;
+  font-size: 4rem;
+}
+.box p {
+  font-size: 3rem;
+  text-align: center;
+}
+.box table {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #eaeaea;
+}
+.box table th {
+  background-color: #fff;
+  font-size: 3rem;
+}
+.box table th img {
+  max-height: 40rem;
+  padding: 1rem;
+}
+.box h2 {
+  font-size: 4rem;
+  margin-top: 10rem;
+}
+.box ol {
+  font-size: 3rem;
+  padding-left: 8rem;
+  line-height: 4rem;
+  color: #0000ff;
+}
+.box ol span {
+  margin-left: -8rem;
+}
+.box ol p {
+  text-align: left;
+  margin-left: -8rem;
+}
+.box .foto_redone {
+  width: 100%;
+  padding: 1rem;
+}
+.box .tabler_two {
+  margin-bottom: 5rem;
+}
+.box .tabler_two h4 {
+  font-size: 3rem;
+}
+.box .tabler_two p {
+  font-size: 2rem;
+  font-weight: normal;
+}
